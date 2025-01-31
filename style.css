@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(138, 194, 194);
+} 
+
+.about {
+    background-color: rgb(81, 156, 156);
+} 
+
+/* {} */
+
+.list {
+    background-color: rgb(69, 156, 156);
+} 
+
+.extra {
+    background-color:rgb(70, 141, 141);
+} 
+
+.javascript {
+
+    background-color: rgb(35, 119, 119); 
+    color: white;
+    border: 2px solid #83b5ee;
+    text-shadow: 3px 3px 5px black;
+
+}
+
+.javascript:hover {
+    transition-duration: 0.4s;
+    background-color: rgb(46, 150, 150);
+    color: black;
+    border: 2px 10px 10px solid #547aa5;
+    cursor:pointer;
+}
+
+
+.htmlcss1 {
+    background-color: rgb(35, 119, 119); 
+    color: white;
+    border: 2px solid #83b5ee;
+    text-shadow: 3px 3px 5px black;
+}
+
+.htmlcss1:hover {
+    transition-duration: 0.4s;
+    background-color: rgb(46, 150, 150);
+    color: black;
+    border: 2px 10px 10px solid #547aa5;
+    cursor:pointer;
+}
+
+
+.htmlcss2:hover {
+    transition-duration: 0.4s;
+    background-color: rgb(46, 150, 150);
+    color: black;
+    border: 2px 10px 10px solid #547aa5;
+    cursor:pointer;
+}
+
+
+.htmlcss2 {
+    background-color: rgb(35, 119, 119); 
+    color: white;
+    border: 2px solid #83b5ee;
+    text-shadow: 3px 3px 5px black;
+}
+
